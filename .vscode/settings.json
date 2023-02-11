@@ -1,0 +1,13 @@
+{
+    "editor.codeActionsOnSave": {
+    "editor.fontsize": 18,
+    "terminal.intergrated.fontSize": 30,
+    "window.zoomlevel": 0.5,
+    "workbrench.colorTheme": "Atom One Dark",
+    "workbrench.iconsTheme": "vscode-icons",
+    },
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
